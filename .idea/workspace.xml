@@ -4,8 +4,44 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dab41bc9-c103-48d5-922b-519c00865231" name="Changes" comment="commit lan 2">
-      <change beforePath="$PROJECT_DIR$/BaiTH1_Bai1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BaiTH1_Bai1/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="dab41bc9-c103-48d5-922b-519c00865231" name="Changes" comment="commit lan 4">
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/src/androidTest/java/com/example/baith1_bai1/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/src/main/java/com/example/baith1_bai1/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/app/src/test/java/com/example/baith1_bai1/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaiTH1_Bai1/settings.gradle.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,20 +77,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/AndroidNC_NguyenVietAnh"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -80,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726547003102</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit lan 4">
+      <option name="closed" value="true" />
+      <created>1726549418105</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726549418105</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +142,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commit lan 1" />
     <MESSAGE value="commit lan 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit lan 2" />
+    <MESSAGE value="commit lan 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit lan 4" />
   </component>
 </project>

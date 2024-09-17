@@ -5,7 +5,7 @@
     android:orientation="vertical"
     android:padding="16dp">
 
-    <!-- Row for Buttons -->
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -33,7 +33,7 @@
             android:text="START/STOP" />
     </LinearLayout>
 
-    <!-- Row for TextViews -->
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

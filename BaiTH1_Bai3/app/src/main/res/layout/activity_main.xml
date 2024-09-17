@@ -20,11 +20,11 @@
         android:id="@+id/btnStart"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="START Alarm"
+        android:text="START"
         android:layout_marginBottom="16dp" />
     <Button
         android:id="@+id/btnStop"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="STOP Alarm" />
+        android:text="STOP" />
 </LinearLayout>

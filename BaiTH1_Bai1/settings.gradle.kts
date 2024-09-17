@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "BaiTH1_Bai1"
 include(":app")
- 
+include(":app:layout")
